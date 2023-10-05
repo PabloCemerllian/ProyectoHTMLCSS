@@ -1,11 +1,1 @@
-#instalar estas dependecias 
-
-asasas
-asasas
-asaasassaas
-fgfgfgfgfg
-ddfddf
-ghghghgh
-dfdfdfvbbggbgb
-dfdfdf
-rtrtrtr
+esta es una modificacion nueva en local, para adaptarse al remoto
